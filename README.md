@@ -1,1 +1,1 @@
-# Asp-Dot-Net-core-Project It is My personal project for practice 
+#It is weather app project on asp dot net core
